@@ -1,0 +1,22 @@
+.jumbotron{
+    margin-top: 2%;
+    padding-top: 25%;
+    padding-left: 2%;
+    margin-left: 5%;
+    padding-right: 5%;
+    margin-right: 5%;
+}
+
+.row .col {
+  border-bottom: 1px solid #000;
+}
+
+.card {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+#trainForm{
+margin-top: 2%;
+margin-bottom: 5%;
+}
